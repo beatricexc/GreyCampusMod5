@@ -45,3 +45,5 @@ Manhattan Distance (Taxicab or City Block)- for *continuous* values
 ![image](https://user-images.githubusercontent.com/72341578/153649793-ebeea414-d4d9-4e59-94a1-d529ae7cef30.png)
 
 Minkowski Distance- for *continuous* values
+
+
