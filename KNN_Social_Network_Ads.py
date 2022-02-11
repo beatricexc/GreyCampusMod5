@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Importing the datset
-dataset = pd.read_csv(r"C:\Users\becel\Downloads\Social_Network_Ads.csv")
+dataset = pd.read_csv(r"C:\Users\beatricexc\Downloads\Social_Network_Ads.csv")
 X = dataset.iloc[:, [2,3]].values
 y = dataset.iloc[:,4].values
 
