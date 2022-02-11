@@ -3,7 +3,8 @@
 ## KNN
 K-Nearest Neighbour can be used for both classification and regression predictive problems. 
 
-**Usage**: to classify the new cases based on all the available nearest neighbouring cases
+**Usage**: to classify the new cases based on all the available nearest neighbouring cases.
+
 **Assumptions**: 
 - KNN assumes that the data is in a feature space
 - meaning, the data points are in a metric space
