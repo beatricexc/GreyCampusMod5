@@ -31,12 +31,17 @@ Depending on the model we're using, KNN returns differnt parameters :
 
 ## Types of Measures in KNN
 
-Hamming Distance
+Hamming Distance - for *categorical* values
 
-Euclidian Distance
+![image](https://user-images.githubusercontent.com/72341578/153650292-7f785060-6001-45f7-9e4a-4ca93e36d5c2.png)
+
+
+Euclidian Distance - for *continuous* values
 
 ![image](https://user-images.githubusercontent.com/72341578/153647825-4004923f-8578-436a-9cca-24ee93455674.png)
 
-Manhattan Distance (Taxicab or City Block)
+Manhattan Distance (Taxicab or City Block)- for *continuous* values
 
-Minkowski Distance
+![image](https://user-images.githubusercontent.com/72341578/153649793-ebeea414-d4d9-4e59-94a1-d529ae7cef30.png)
+
+Minkowski Distance- for *continuous* values
